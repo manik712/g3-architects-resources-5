@@ -289,6 +289,27 @@ grid-template-columns: 1fr;
 
 }
 
+
+
+.facts-card-container{
+
+flex-direction: column;
+
+
+}
+
+
+.facts-card-container .card{
+
+padding: 10px 10px;
+
+
+}
+
+
+
+
+
 }
 
 
@@ -333,6 +354,29 @@ flex-direction: column;
 grid-template-columns: 1fr;
 
 }
+
+
+.facts-card-container{
+
+flex-direction: column;
+
+
+
+
+}
+
+.facts-card-container .card{
+
+padding: 10px 10px;
+
+
+}
+
+
+
+
+
+
 }
 
 
