@@ -102,58 +102,6 @@ font-size: 13px;
 color: #727272;
 
 }
-.btn-primary{
-
-border: none;
-
-padding: 21px 20px 24px 25px;
-
-color:#FFF ;
-background: #FF900E;
-border-radius: 8px;
-
-font-size: 15px;
-cursor: pointer;
-
-
-}
-
-
-.banner img{
-
-
-width: 100%;
- 
-
-
-
-margin-top: 20px;
-}
-
-@media screen and ( max-width:576px){
-
-
-header{      padding: 20px;    }
-
-nav{
-
-flex-direction: column;
-
-
-
-
-}
-
-
-}
-
-
-
-
-
-
-
-
 
 
 
